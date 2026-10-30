@@ -89,8 +89,8 @@ Studied a hybrid AutoEncoder feature representation, **Partial SMOTE**, and thre
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clepigdo&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clepigdo&layout=compact&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 </div>
 
