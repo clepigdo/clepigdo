@@ -63,6 +63,5 @@ NLTK · Gradio · Gemini API · SQL · Google Colab · GitHub · Hugging Face Tr
 
 <div align="center">
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clepigdo&theme=tokyo-night&hide_border=true)](https://github.com/clepigdo)
-
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clepigdo&theme=tokyo-night&hide_border=true&area=true)
 </div>
