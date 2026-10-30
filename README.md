@@ -50,19 +50,30 @@ I'm an **Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS)
 NLTK · Gradio · Gemini API · SQL · Google Colab · GitHub · Hugging Face Transformers · U-Net
 </details>
 
-# 📊 GitHub Analytics
+
+<h2>📊 GitHub Analytics</h2>
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&ring_color=58A6FF" />
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
+  <img
+    height="170"
+    alt="GitHub Statistics"
+    src="https://github-stats-extended.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    alt="Top Programming Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  />
 </div>
 
 <div align="center">
-  <img width="760" src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true&border_radius=20&background=0D1117&ring=58A6FF&fire=F39C12&currStreakLabel=C9D1D9" />
+  <img
+    width="700"
+    alt="GitHub Contribution Streak"
+    src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true"
+  />
 </div>
+
 
 ### 📈 Contribution Activity
 
