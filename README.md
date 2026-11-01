@@ -90,21 +90,31 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 
 ---
 
-## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
-</p>
+<h2>GitHub Analytics</h2>
 
-<p align="center">
-  <img width="720" src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true&border_radius=14" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=clepigdo&theme=tokyo-night&hide_border=true" />
-</p>
+  <img
+    width="49%"
+    src="./profile/stats.svg"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="./profile/top-langs.svg"
+    alt="Top Programming Languages"
+  />
 
+  <br/>
+
+  <img
+    width="80%"
+    src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+
+</div>
 ---
 
 ## Current Interests
