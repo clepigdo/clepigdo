@@ -1,84 +1,122 @@
-<div align="center">
+<h1 align="center">Igdo Ragil Manuel</h1>
+<p align="center">
+  Informatics Engineering Student • Machine Learning • Web Development • Software Development
+</p>
 
-# 👋 Hi, I'm Igdo Ragil Manuel!
-
-### AI & Machine Learning Enthusiast · Informatics Engineering Student
-
-Building practical AI solutions, from **data preprocessing and model training** to **web-based deployment**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igdomanuel)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manuelragil6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/clepigdo)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/igdomanuel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manuelragil6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/clepigdo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🪄 About Me
+## Profile
 
-I'm an **Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS)**, interested in **Artificial Intelligence, Machine Learning, Computer Vision, NLP, and Web Development**. I enjoy turning experiments into applications people can actually use.
+I am an Informatics Engineering student at Universitas Dian Nuswantoro with an interest in machine learning, web development, and software engineering.  
+I enjoy building practical systems, experimenting with data-driven solutions, and turning ideas into usable applications.
 
-### 💻 Tech Stack
+---
 
-**AI, ML & Data**
+## Focus
+
+- Machine Learning
+- Web Development
+- Computer Vision
+- Natural Language Processing
+- API Development
+- Software Engineering
+
+---
+
+## Tech Stack
+
+<details open>
+<summary><strong>Programming Languages</strong></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>Machine Learning and Data</strong></summary>
+<br>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-4B8BBE?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBF00?style=for-the-badge&logo=huggingface&logoColor=black)
 
-**Web, Deployment & Tools**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<details>
-<summary><b>🔧 More tools I've worked with</b></summary>
-<br>
-NLTK · Gradio · Gemini API · SQL · Google Colab · GitHub · Hugging Face Transformers · U-Net
 </details>
 
+<details>
+<summary><strong>Web and Backend</strong></summary>
+<br>
 
-<h2>📊 GitHub Analytics</h2>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-<div align="center">
-  <img
-    height="170"
-    alt="GitHub Statistics"
-    src="https://github-stats-extended.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    height="170"
-    alt="Top Programming Languages"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</div>
+</details>
 
-<div align="center">
-  <img
-    width="700"
-    alt="GitHub Contribution Streak"
-    src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true"
-  />
-</div>
+<details>
+<summary><strong>Tools</strong></summary>
+<br>
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-### 📈 Contribution Activity
+</details>
 
-<div align="center">
+---
 
-![GitHub Contribution Snake](https://raw.githubusercontent.com/clepigdo/clepigdo/output/github-snake.svg)
+## GitHub Analytics
 
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=clepigdo&show_icons=true&theme=tokyonight&hide_border=true&border_radius=14" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clepigdo&layout=compact&theme=tokyonight&hide_border=true&border_radius=14" />
+</p>
+
+<p align="center">
+  <img width="720" src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true&border_radius=14" />
+</p>
+
+<p align="center">
+  <img width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=clepigdo&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## Current Interests
+
+- Building practical machine learning applications
+- Improving model deployment workflows
+- Developing web-based systems and tools
+- Learning better software engineering practices
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/igdomanuel](https://www.linkedin.com/in/igdomanuel)
+- Email: [manuelragil6@gmail.com](mailto:manuelragil6@gmail.com)
