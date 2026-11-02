@@ -94,12 +94,6 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 <h2>GitHub Analytics</h2>
 
 <div align="center">
-
-  <img
-    width="49%"
-    src="./profile/stats.svg"
-    alt="GitHub Statistics"
-  />
   <img
     width="49%"
     src="./profile/top-langs.svg"
