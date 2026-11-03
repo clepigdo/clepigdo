@@ -120,7 +120,4 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 
 ---
 
-## Contact
 
-- LinkedIn: [linkedin.com/in/igdomanuel](https://www.linkedin.com/in/igdomanuel)
-- Email: [manuelragil6@gmail.com](mailto:manuelragil6@gmail.com)
