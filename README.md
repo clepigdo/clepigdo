@@ -91,36 +91,6 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 ---
 
 
-<h2>GitHub Analytics</h2>
-
-<div align="center">
-  <img
-    width="49%"
-    src="./profile/top-langs.svg"
-    alt="Top Programming Languages"
-  />
-
-  <br/>
-
-  <img
-    width="80%"
-    src="https://streak-stats.demolab.com?user=clepigdo&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-
-</div>
----
-
-## Current Interests
-
-- Building practical machine learning applications
-- Improving model deployment workflows
-- Developing web-based systems and tools
-- Learning better software engineering practices
-
----
-
-<!-- GitHub Analytics: paste this block into your existing profile README. -->
 ## GitHub Analytics
 
 <p align="center">
@@ -144,5 +114,16 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 </p>
 </details>
 <p align="center"><sub>Cards refresh daily via GitHub Actions. Language percentages describe repository contents, not skill level.</sub></p>
+
+---
+
+## Current Interests
+
+- Building practical machine learning applications
+- Improving model deployment workflows
+- Developing web-based systems and tools
+- Learning better software engineering practices
+
+---
 
 
