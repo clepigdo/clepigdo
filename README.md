@@ -120,4 +120,29 @@ I enjoy building practical systems, experimenting with data-driven solutions, an
 
 ---
 
+<!-- GitHub Analytics: paste this block into your existing profile README. -->
+## GitHub Analytics
+
+<p align="center">
+  <sub>Development activity and languages across my GitHub repositories</sub>
+</p>
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="GitHub account statistics" width="49%" />
+  <img src="./profile/top-langs.svg" alt="Most used repository languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=clepigdo&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=C9D1D9" alt="GitHub contribution streak" width="75%" />
+</p>
+
+<details>
+<summary><b>Contribution history</b> · animated snake</summary>
+<br />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/clepigdo/clepigdo/output/github-snake.svg" alt="Animated contribution snake" width="100%" />
+</p>
+</details>
+<p align="center"><sub>Cards refresh daily via GitHub Actions. Language percentages describe repository contents, not skill level.</sub></p>
+
 
