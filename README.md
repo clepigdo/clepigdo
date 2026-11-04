@@ -1,7 +1,12 @@
-<h1 align="center">Igdo Ragil Manuel</h1>
+
 <p align="center">
-  Informatics Engineering Student • Machine Learning • Web Development • Software Development
+  <img
+    src="./assets/header-typing.gif"
+    alt="Developer Terminal Animation"
+    width="720"
+  />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/igdomanuel" target="_blank">
