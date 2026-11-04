@@ -1,4 +1,3 @@
-
 <p align="center">
   <img
     src="./assets/header-typing.gif"
