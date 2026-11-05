@@ -7,7 +7,7 @@
 
 <p align="center">
   <img
-    src="./header-typing.gif"
+    src="./.github/assets/header-typing.gif"
     alt="Developer Terminal Animation"
     width="720"
   />
