@@ -26,15 +26,6 @@
   </a>
 </p>
 
----
-
-## Profile
-
-I am an Informatics Engineering student at Universitas Dian Nuswantoro with an interest in machine learning, web development, and software engineering.  
-I enjoy building practical systems, experimenting with data-driven solutions, and turning ideas into usable applications.
-
----
-
 ## Focus
 
 - Machine Learning
