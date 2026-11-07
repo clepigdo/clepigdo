@@ -100,7 +100,6 @@
 </p>
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="GitHub account statistics" width="49%" />
   <img src="./profile/top-langs.svg" alt="Most used repository languages" width="49%" />
 </p>
 
