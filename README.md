@@ -2,7 +2,7 @@
 <h1 align="center">Igdo Ragil Manuel</h1>
 
 <p align="center">
-  Informatics Engineering Student • Machine Learning • Web Development • Software Development
+Machine Learning • Web Development • Software Development
 </p>
 
 <p align="center">
