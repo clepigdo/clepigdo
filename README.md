@@ -32,8 +32,6 @@ Machine Learning • Web Development • Software Development
 - Web Development
 - Computer Vision
 - Natural Language Processing
-- API Development
-- Software Engineering
 
 ---
 
